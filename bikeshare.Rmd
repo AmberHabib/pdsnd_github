@@ -3,7 +3,7 @@ title: "Udacity Data Science with R Nanodegree - Project # 2"
 output: html_document
 ---
 
-```{r setup, include=TRUE}
+```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 library(data.table)
 library(stringr)
