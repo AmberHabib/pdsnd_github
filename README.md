@@ -2,7 +2,7 @@
 August 08, 2020
 
 ### Project Title
-Bikeshare data analysis for Udacity data science nanodegree with R
+Bikeshare data analysis for Udacity data science with R nanodegree
 
 ### Description
 In this project I have used R to answer three questions using the bikeshare data from Chicago, Newyork and Washington. The questions that have been addressed are:
